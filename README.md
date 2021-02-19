@@ -28,3 +28,4 @@ The voice samples are pre-processed by acoustic analysis in R using the seewave 
 - dfrange: range of dominant frequency measured across acoustic signal
 - modindex: modulation index. Calculated as the accumulated absolute difference between adjacent measurements of fundamental frequencies divided by the frequency range
 ## Visualization of Different Acoustic Properties
+![Visualization of Different Acoustic Properties](visual.jpg)
